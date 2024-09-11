@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Calcular Peso Ideal</h1>
-    <form action="calculate.php" method="post">
+    <form action="calculate3.php" method="post">
         <label for="sexo">Informe seu sexo (M/F):</label>
         <input type="text" id="sexo" name="sexo" maxlength="1" required>
         <br><br>

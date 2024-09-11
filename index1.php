@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Conversão de Celsius para Fahrenheit</h1>
-    <form action="convert.php" method="post">
+    <form action="convert1.ph" method="post">
         <label for="celsius">Digite o valor em Celsius:</label>
         <input type="text" id="celsius" name="celsius" required>
         <button type="submit">Converter</button>

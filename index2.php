@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Conversão de Dólares para Reais</h1>
-    <form action="convert.php" method="post">
+    <form action="convert2.php" method="post">
         <label for="dolar">Informe o valor em dólares:</label>
         <input type="text" id="dolar" name="dolar" required>
         <button type="submit">Converter</button>
